@@ -1,3 +1,5 @@
+# 크롭탭에 올리면 매일 전날에 모든 네이버 뉴스를 가져오는 코드
+
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 import pandas as pd
